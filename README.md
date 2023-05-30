@@ -1,4 +1,8 @@
-<h1 align="center">🌟 Otávio Pech 🌟</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Otávio+Pech;Eu+nasci+em+25+/+09+/+2006;Seja+muito+bem-vindo+ao+meu+github;)](https://git.io/typing-svg)
+
+
 
 ## Linguagens
 
@@ -25,3 +29,4 @@
 
 
 Obrigado por visitar meu perfil do GitHub! Fique à vontade para explorar meus repositórios e contribuições. Espero que encontre algo interessante aqui. Sinta-se à vontade para entrar em contato comigo pelo Instagram se tiver alguma pergunta ou oportunidade de colaboração.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
