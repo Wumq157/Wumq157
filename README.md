@@ -9,7 +9,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-764ABC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3">
-  <img style=backgraund-color #ccc, src="https://img.shields.io/badge/AutoHotkey-1B83A6?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AutoHotkey">
+  <img style="background-color: #00ff00;" src="https://img.shields.io/badge/AutoHotkey-1B83A6?style=for-the-badge&logo=autohotkey&logoColor=white" alt="AutoHotkey">
+
   <!--
   <img src="#" alt="JavaScript">
   <img src="#" alt="Python">
